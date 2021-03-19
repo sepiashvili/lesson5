@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/semi-bolt/Poppins-SemiBoldItalic_1.eot');
+    src: url('../fonts/semi-bolt/Poppins-SemiBoldItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/semi-bolt/Poppins-SemiBoldItalic_1.woff2') format('woff2'),
+        url('../fonts/semi-bolt/Poppins-SemiBoldItalic_1.woff') format('woff'),
+        url('../fonts/semi-bolt/Poppins-SemiBoldItalic_1.ttf') format('truetype'),
+        url('../fonts/semi-bolt/Poppins-SemiBoldItalic_1.svg#Poppins-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url('../fonts/extra-bolt/Poppins-ExtraBold.eot');
+    src: url('../fonts/extra-bolt/Poppins-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/extra-bolt/Poppins-ExtraBold.woff2') format('woff2'),
+        url('../fonts/extra-bolt/Poppins-ExtraBold.woff') format('woff'),
+        url('../fonts/extra-bolt/Poppins-ExtraBold.ttf') format('truetype'),
+        url('../fonts/extra-bolt/Poppins-ExtraBold.svg#Poppins-ExtraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+

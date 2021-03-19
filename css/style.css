@@ -1,3 +1,63 @@
-.h1 {
-	font-size: 130px;
+/*Common in both section*/
+.clear {
+	clear: both;
+}
+.container {
+	width: 1088px;
+	margin :0 auto;
+}
+.blue-color {
+	color : #5863F8;
+	font-size: 14px;
+	font-family: 'Poppins';
+}
+.header-p {
+	font-family: 'Poppins';
+	color: #000000;
+	font-size: 42px;
+}
+.black-color {
+	font-family: 'Poppins';
+	color: #000000;
+	font-size: 18px;
+}
+.div-p {
+	font-family: 'Poppins';
+	color: #B1B1B1;
+	font-size: 14px;
+	width: 260px;
+}
+.dic-h3 {
+	margin-bottom: 52px;
+}
+/*section 1*/
+.dic-h6 {
+	margin-top: 81px;
+}
+.left-block {
+	width: 536px;
+	float: left;
+	background-color: #F8F8F8;
+	margin-bottom: 16px;
+}
+.right-block {
+	width: 536px;
+	float: right;
+	background-color: #F8F8F8;
+	margin-bottom: 16px;
+}
+.sec1-img {
+	float: left;
+}
+.menu {
+	float: left;
+	margin: 37px 0 0 16px;
+}
+/*section 2*/
+.dic-h5 {
+	margin-top: 90px;
+}
+.sec2-div {
+	width: 350px;
+	background-color: #F8F8F8;
 }
