@@ -79,3 +79,8 @@
 	text-align: center;
 	margin:0 auto;
 }
+.both::before {
+	content: '';
+	clear: both;
+	display: block;
+}
