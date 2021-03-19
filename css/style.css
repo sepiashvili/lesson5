@@ -58,6 +58,24 @@
 	margin-top: 90px;
 }
 .sec2-div {
-	width: 350px;
 	background-color: #F8F8F8;
+	float: left;
+	margin-bottom: 16px;
+}
+.sec2-dive {
+	background-color: #F8F8F8;
+	float: left;
+	margin: 0 0 16px 16px;
+}
+.sec2-h3 {
+	text-align: center;
+	margin: 5px 0 10px;
+}
+.sec2-h5 {
+	text-align: center;
+	margin-top: 23px;
+}
+.sec2-p {
+	text-align: center;
+	margin:0 auto;
 }
